@@ -1,8 +1,6 @@
 # ziming-g.github.io
-Personal TODO: 
-* Add profile (images/avatar)
-* Projects: How divide?
-## Sections
+
+## TODO Sections
 Intro/Bio
 Projects
-
+Fun
